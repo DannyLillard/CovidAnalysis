@@ -2,7 +2,7 @@ Author: Danny Lillard
 
 Date: 6/7/2021
 
-dashboard here: https://public.tableau.com/app/profile/danny.lillard/viz/CovidDashboard_16224926574160/Dashboard1
+Dashboard here: https://public.tableau.com/app/profile/danny.lillard/viz/CovidDashboard_16224926574160/Dashboard1
 
 **Overview:**
 
